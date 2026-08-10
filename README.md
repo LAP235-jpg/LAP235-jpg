@@ -93,14 +93,6 @@ Também estudo e desenvolvo projetos relacionados à criação de jogos, explora
 
 ---
 
-## 🎯 Objetivo
-
-Continuar evoluindo como desenvolvedor, criando projetos que unam **software, hardware, criatividade e tecnologia**.
-
-> "Todo projeto começa com uma ideia. O código vem depois."
-
----
-
 ## 📫 Contato
 
 📧 Entre em contato comigo através do GitHub
